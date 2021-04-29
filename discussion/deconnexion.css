@@ -1,0 +1,14 @@
+
+.deconnexion{
+    position: absolute;
+    right: 5vw;
+    top: 4vh;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    color: white;
+    background: seagreen;
+    padding: 5px;
+    cursor: pointer;
+}
